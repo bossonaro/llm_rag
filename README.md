@@ -17,6 +17,7 @@ pip install sentence-transformers
 pip install python-dotenv
 
 #########################
+
 (2)  Install required dependencies
 pip install llama-index
 pip install llama-index-cli
